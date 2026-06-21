@@ -53,8 +53,10 @@ A full-stack web application that helps users keep track of their job applicatio
 ## Architecture
 
 Frontend (React + Vite)
+
         ↓
 Backend API (Node.js + Express)
+
         ↓
 MongoDB Atlas
 
