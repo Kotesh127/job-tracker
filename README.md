@@ -19,7 +19,6 @@ A full-stack web application that helps users keep track of their job applicatio
 
 * React.js
 * React Router
-* Axios
 * Vite
 
 ### Backend
