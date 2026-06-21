@@ -47,8 +47,6 @@ A full-stack web application that helps users keep track of their job applicatio
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
 
-### Job Management
-![Jobs](screenshots/jobs.png)
 
 ## Project Structure
 
