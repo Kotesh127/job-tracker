@@ -36,6 +36,20 @@ A full-stack web application that helps users keep track of their job applicatio
 * Frontend: Vercel
 * Backend: Render
 
+## Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Registration Page
+![Register](screenshots/register.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Job Management
+![Jobs](screenshots/jobs.png)
+
 ## Project Structure
 
 ```text
