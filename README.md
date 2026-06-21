@@ -1,5 +1,7 @@
 # Job Tracker
 
+🚀 Live Demo: https://job-tracker-eight-sigma-83.vercel.app/
+
 A full-stack web application that helps users keep track of their job applications in one place. Users can register, log in securely, add job applications, update application status, and manage their job search progress through a simple dashboard.
 
 ## Features
@@ -46,6 +48,15 @@ A full-stack web application that helps users keep track of their job applicatio
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
+
+
+## Architecture
+
+Frontend (React + Vite)
+        ↓
+Backend API (Node.js + Express)
+        ↓
+MongoDB Atlas
 
 
 ## Project Structure
@@ -127,6 +138,4 @@ Kotesh Ambati
 
 Built as a full-stack learning project to gain hands-on experience with React, Node.js, Express, MongoDB Atlas, authentication, deployment, and cloud-based application development.
 
-## Demo 
 
-https://job-tracker-eight-sigma-83.vercel.app/
